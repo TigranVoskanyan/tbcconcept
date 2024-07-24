@@ -40,7 +40,7 @@
   - `bootstrap.css`: Bootstrap ფრეიმვორკი.
   - `font-awesome.css`: Font Awesome იკონკები.
   - `style.css`: ვებ გვერდის სტილები.
-- **fonts/**: შეიცავს შრიფტების დირექტორია.
+- **fonts/**: შრიფტების დირექტორია.
 - **img/**: სურათების დირექტორია.
 - **js/**:JavaScript ფაილების დირექტორია.
   - `jquery.js`: jQuery ბიბლიოთეკა.
