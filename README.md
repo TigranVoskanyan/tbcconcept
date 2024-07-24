@@ -1,20 +1,19 @@
 # tbcconcept
  
 ## პროექტის სტრუქტურა
-
-├── css
-│ ├── bootstrap.css
-│ ├── font-awesome.css
-│ └── style.css
-├── fonts
-├── img
-├── js
-│ ├── bootstrap.min.js
-│ ├── jquery.js
-│ ├── owl.js
-│ └── script.js
-├── index.html
-└── README.md
+- css
+  -  bootstrap.css
+  - font-awesome.css
+  - style.css
+- fonts
+- img
+- js
+  - bootstrap.min.js
+  - jquery.js
+  - owl.js
+  - script.js
+- index.html
+- README.md
 
 
 ## გამოყენებული ტექნოლოგიები
